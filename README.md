@@ -45,3 +45,7 @@ The pre-trained model used in this repository is a convolutional neural network 
 # Face Emotion Recognition
 
 Data Set Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
+
+
+Author: vaishnav muriki
+Email: vaishpaa@gmail.com
